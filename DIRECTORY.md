@@ -112,8 +112,10 @@
   * [Cnn Classification](https://github.com/TheAlgorithms/Python/blob/master/computer_vision/cnn_classification.py)
   * [Flip Augmentation](https://github.com/TheAlgorithms/Python/blob/master/computer_vision/flip_augmentation.py)
   * [Harris Corner](https://github.com/TheAlgorithms/Python/blob/master/computer_vision/harris_corner.py)
+  * [Horn Schunck](https://github.com/TheAlgorithms/Python/blob/master/computer_vision/horn_schunck.py)
   * [Mean Threshold](https://github.com/TheAlgorithms/Python/blob/master/computer_vision/mean_threshold.py)
   * [Mosaic Augmentation](https://github.com/TheAlgorithms/Python/blob/master/computer_vision/mosaic_augmentation.py)
+  * [Pooling Functions](https://github.com/TheAlgorithms/Python/blob/master/computer_vision/pooling_functions.py)
 
 ## Conversions
   * [Binary To Decimal](https://github.com/TheAlgorithms/Python/blob/master/conversions/binary_to_decimal.py)
@@ -130,6 +132,7 @@
   * [Molecular Chemistry](https://github.com/TheAlgorithms/Python/blob/master/conversions/molecular_chemistry.py)
   * [Octal To Decimal](https://github.com/TheAlgorithms/Python/blob/master/conversions/octal_to_decimal.py)
   * [Prefix Conversions](https://github.com/TheAlgorithms/Python/blob/master/conversions/prefix_conversions.py)
+  * [Prefix Conversions String](https://github.com/TheAlgorithms/Python/blob/master/conversions/prefix_conversions_string.py)
   * [Pressure Conversions](https://github.com/TheAlgorithms/Python/blob/master/conversions/pressure_conversions.py)
   * [Rgb Hsv Conversion](https://github.com/TheAlgorithms/Python/blob/master/conversions/rgb_hsv_conversion.py)
   * [Roman Numerals](https://github.com/TheAlgorithms/Python/blob/master/conversions/roman_numerals.py)
@@ -453,6 +456,7 @@
   * [Area](https://github.com/TheAlgorithms/Python/blob/master/maths/area.py)
   * [Area Under Curve](https://github.com/TheAlgorithms/Python/blob/master/maths/area_under_curve.py)
   * [Armstrong Numbers](https://github.com/TheAlgorithms/Python/blob/master/maths/armstrong_numbers.py)
+  * [Average Absolute Deviation](https://github.com/TheAlgorithms/Python/blob/master/maths/average_absolute_deviation.py)
   * [Average Mean](https://github.com/TheAlgorithms/Python/blob/master/maths/average_mean.py)
   * [Average Median](https://github.com/TheAlgorithms/Python/blob/master/maths/average_median.py)
   * [Average Mode](https://github.com/TheAlgorithms/Python/blob/master/maths/average_mode.py)
@@ -527,6 +531,7 @@
   * [Perfect Square](https://github.com/TheAlgorithms/Python/blob/master/maths/perfect_square.py)
   * [Persistence](https://github.com/TheAlgorithms/Python/blob/master/maths/persistence.py)
   * [Pi Monte Carlo Estimation](https://github.com/TheAlgorithms/Python/blob/master/maths/pi_monte_carlo_estimation.py)
+  * [Points Are Collinear 3D](https://github.com/TheAlgorithms/Python/blob/master/maths/points_are_collinear_3d.py)
   * [Pollard Rho](https://github.com/TheAlgorithms/Python/blob/master/maths/pollard_rho.py)
   * [Polynomial Evaluation](https://github.com/TheAlgorithms/Python/blob/master/maths/polynomial_evaluation.py)
   * [Power Using Recursion](https://github.com/TheAlgorithms/Python/blob/master/maths/power_using_recursion.py)
@@ -617,6 +622,7 @@
   * [Tower Of Hanoi](https://github.com/TheAlgorithms/Python/blob/master/other/tower_of_hanoi.py)
 
 ## Physics
+  * [Horizontal Projectile Motion](https://github.com/TheAlgorithms/Python/blob/master/physics/horizontal_projectile_motion.py)
   * [N Body Simulation](https://github.com/TheAlgorithms/Python/blob/master/physics/n_body_simulation.py)
   * [Newtons Second Law Of Motion](https://github.com/TheAlgorithms/Python/blob/master/physics/newtons_second_law_of_motion.py)
 
@@ -787,6 +793,8 @@
   * Problem 067
     * [Sol1](https://github.com/TheAlgorithms/Python/blob/master/project_euler/problem_067/sol1.py)
     * [Sol2](https://github.com/TheAlgorithms/Python/blob/master/project_euler/problem_067/sol2.py)
+  * Problem 068
+    * [Sol1](https://github.com/TheAlgorithms/Python/blob/master/project_euler/problem_068/sol1.py)
   * Problem 069
     * [Sol1](https://github.com/TheAlgorithms/Python/blob/master/project_euler/problem_069/sol1.py)
   * Problem 070
@@ -831,6 +839,8 @@
     * [Sol1](https://github.com/TheAlgorithms/Python/blob/master/project_euler/problem_101/sol1.py)
   * Problem 102
     * [Sol1](https://github.com/TheAlgorithms/Python/blob/master/project_euler/problem_102/sol1.py)
+  * Problem 104
+    * [Sol](https://github.com/TheAlgorithms/Python/blob/master/project_euler/problem_104/sol.py)
   * Problem 107
     * [Sol1](https://github.com/TheAlgorithms/Python/blob/master/project_euler/problem_107/sol1.py)
   * Problem 109
@@ -990,6 +1000,7 @@
   * [Manacher](https://github.com/TheAlgorithms/Python/blob/master/strings/manacher.py)
   * [Min Cost String Conversion](https://github.com/TheAlgorithms/Python/blob/master/strings/min_cost_string_conversion.py)
   * [Naive String Search](https://github.com/TheAlgorithms/Python/blob/master/strings/naive_string_search.py)
+  * [Ngram](https://github.com/TheAlgorithms/Python/blob/master/strings/ngram.py)
   * [Palindrome](https://github.com/TheAlgorithms/Python/blob/master/strings/palindrome.py)
   * [Prefix Function](https://github.com/TheAlgorithms/Python/blob/master/strings/prefix_function.py)
   * [Rabin Karp](https://github.com/TheAlgorithms/Python/blob/master/strings/rabin_karp.py)
@@ -1015,9 +1026,11 @@
   * [Daily Horoscope](https://github.com/TheAlgorithms/Python/blob/master/web_programming/daily_horoscope.py)
   * [Download Images From Google Query](https://github.com/TheAlgorithms/Python/blob/master/web_programming/download_images_from_google_query.py)
   * [Emails From Url](https://github.com/TheAlgorithms/Python/blob/master/web_programming/emails_from_url.py)
+  * [Fetch Anime And Play](https://github.com/TheAlgorithms/Python/blob/master/web_programming/fetch_anime_and_play.py)
   * [Fetch Bbc News](https://github.com/TheAlgorithms/Python/blob/master/web_programming/fetch_bbc_news.py)
   * [Fetch Github Info](https://github.com/TheAlgorithms/Python/blob/master/web_programming/fetch_github_info.py)
   * [Fetch Jobs](https://github.com/TheAlgorithms/Python/blob/master/web_programming/fetch_jobs.py)
+  * [Fetch Well Rx Price](https://github.com/TheAlgorithms/Python/blob/master/web_programming/fetch_well_rx_price.py)
   * [Get Imdb Top 250 Movies Csv](https://github.com/TheAlgorithms/Python/blob/master/web_programming/get_imdb_top_250_movies_csv.py)
   * [Get Imdbtop](https://github.com/TheAlgorithms/Python/blob/master/web_programming/get_imdbtop.py)
   * [Get Top Hn Posts](https://github.com/TheAlgorithms/Python/blob/master/web_programming/get_top_hn_posts.py)
